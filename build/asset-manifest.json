@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff16c637.css",
+    "main.js": "/static/js/main.d2176768.js",
+    "static/media/banner-uplift.png": "/static/media/banner-uplift.91d51ab71fcb1f17344c.png",
+    "index.html": "/index.html",
+    "main.ff16c637.css.map": "/static/css/main.ff16c637.css.map",
+    "main.d2176768.js.map": "/static/js/main.d2176768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff16c637.css",
+    "static/js/main.d2176768.js"
+  ]
+}
